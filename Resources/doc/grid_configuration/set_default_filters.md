@@ -26,7 +26,7 @@ $grid->setDefaultFilters($filters);
 
 |parameter|Type|Default value|Description|
 |:--:|:--|:--|:--|:--|
-|operator|string|default operator of the column|Operator used to filter|
+|operators|string|default operator of the column|Operator used to filter|
 |from|string|null|The value of the filter or the _from_ value for the between operators|
 |to|string|null|The _to_ value for the between operators|
 
